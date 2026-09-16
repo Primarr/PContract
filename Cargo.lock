@@ -194,7 +194,7 @@ dependencies = [
 
 [[package]]
 name = "budget"
-version = "0.0.0"
+version = "0.2.0"
 dependencies = [
  "soroban-sdk",
 ]
@@ -1083,7 +1083,7 @@ dependencies = [
 
 [[package]]
 name = "registry"
-version = "0.0.0"
+version = "0.2.0"
 dependencies = [
  "soroban-sdk",
 ]
@@ -1245,7 +1245,7 @@ dependencies = [
 
 [[package]]
 name = "settlement"
-version = "0.0.0"
+version = "0.2.0"
 dependencies = [
  "soroban-sdk",
 ]
